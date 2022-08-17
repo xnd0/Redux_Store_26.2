@@ -15,5 +15,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnd0/Redux_Store_26.2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xnd0/Redux_Store_26.2/issues"
+  },
+  "homepage": "https://github.com/xnd0/Redux_Store_26.2#readme"
 }
