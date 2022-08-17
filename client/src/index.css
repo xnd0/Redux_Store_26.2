@@ -1,6 +1,6 @@
 :root {
   --primary: #232F3E;
-  --secondary: #F3A847;
+  --secondary: #e1b57d;
   --tertiary: #B12704;
   --light: #fafafa;
   --dark: #272f32;
@@ -26,6 +26,7 @@ body {
   line-height: 1.5;
   font-size: 16px;
   color: var(--dark);
+  background-image: linear-gradient(white, rgb(62, 146, 243));
 }
 
 h1,
@@ -111,6 +112,11 @@ button[disabled] {
 img {
   max-width: 100%;
 }
+
+img:hover {
+  opacity: .8;
+}
+
 
 span[role="img"] {
   cursor: default;
